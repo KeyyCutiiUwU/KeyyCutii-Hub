@@ -3149,7 +3149,7 @@ local R = SOMEXHUB:AddTab("Mục Đột Kích🛸","16251448943")
 local T = SOMEXHUB:AddTab("Mục Dịch Chuyển🚪","16251448943")
 local S = SOMEXHUB:AddTab("Mục Cửa Hàng🛍️","16251448943")
 local D = SOMEXHUB:AddTab("Mục Trái🍉","16251448943")
-local Misc = SOMEXHUB:AddTab("Khác🚀","16251448943")
+local Misc = SOMEXHUB:AddTab("🚀Khác","16251448943")
 ---------------------------------------------------------------------------
 spawn(function()
     game:GetService("RunService").Heartbeat:Connect(function()
