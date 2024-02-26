@@ -395,6 +395,7 @@ TextLabel:Destroy()
 wait(1)
 MAIN:Destroy()
 end
+
 ----[KhangDeptraiHub]
 local Notif = {}
 
